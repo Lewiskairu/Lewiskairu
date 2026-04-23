@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:kairulewis649@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/lewis-kairu-43b71a298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lewis-kairu-43b71a298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolio.lawik.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -103,7 +103,6 @@ I'm a **Software Engineer** and **Robotics Trainer** based in **Nairobi, Kenya**
   <img src="https://raw.githubusercontent.com/Lewiskairu/Lewiskairu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> To enable the snake animation, add a GitHub Actions workflow — check out [Platane/snk](https://github.com/Platane/snk) for setup instructions.
 
 ---
 
