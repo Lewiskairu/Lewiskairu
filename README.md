@@ -100,7 +100,7 @@ I'm a **Software Engineer** and **Robotics Trainer** based in **Nairobi, Kenya**
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lawikairu/lawikairu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Lewiskairu/Lewiskairu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 > To enable the snake animation, add a GitHub Actions workflow — check out [Platane/snk](https://github.com/Platane/snk) for setup instructions.
@@ -118,5 +118,5 @@ I'm always open to collaborating on interesting projects — especially anything
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lawikairu&color=58a6ff&style=flat-square&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=Lewiskairu&color=58a6ff&style=flat-square&label=profile+views" />
 </div>
