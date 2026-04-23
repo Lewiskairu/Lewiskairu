@@ -19,7 +19,7 @@
 
 I'm a **Software Engineer** and **Robotics Trainer** based in **Nairobi, Kenya**, currently working at [iWorth Limited](https://iworthlimited.com). I love building interactive web experiences, teaching kids to code with robots, and occasionally making networks behave.
 
-- 🔭 Currently building **[MicroAD Agencies](https://github.com/lawikairu/microad-agencies)** — a scroll-driven, Blender-rendered Next.js marketing site
+- 🔭 Currently building **[MicroAD Agencies](https://github.com/lewiskairu/microad-agencies)** — a scroll-driven, Blender-rendered Next.js marketing site
 - 🤖 Teaching robotics & IT skills at **iWorth Limited**
 - 🌐 Previously: Computer Trainer @ **Webbs Institute** · IT @ **The Karen Hospital**
 - 🎓 BSc. Software Engineering — **St. Paul's University** (2025)
@@ -87,11 +87,11 @@ I'm a **Software Engineer** and **Robotics Trainer** based in **Nairobi, Kenya**
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lewiskairu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawikairu&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewiskairu&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lawikairu&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lewiskairu&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
